@@ -11,3 +11,7 @@ Find my work on this profile and previous employments in [previous_work.md](./pr
 Feel free to reach out to me via Mail at `lasse@haffke.me` or on Github @lasse16; You know ... The profile you are on right now 😁.  
 
 Currently working on my personal website [haffke.me](https://haffke.me), and as always tinkering with my [dotfiles](https://github.com/lasse16/dotfiles).
+
+
+✉️ lasse@haffke.me  
+🔗 [haffke.me](https://haffke.me)
