@@ -1,6 +1,6 @@
 ### Moin, I am  Lasse.
 
-And welcome to my profile. I am a M.Sc.Computer Science student at the University of Hamburg.
+And welcome to my profile. I am a M.Sc. Computer Science student at the University of Hamburg.
 
 I tried my hand at a lot of things related to the wide world of computers;   
 From embedded, over web dev, to game design, computer vision and competitive programming;
