@@ -13,5 +13,5 @@ Feel free to reach out to me via Mail at `lasse@haffke.me` or on Github @lasse16
 Currently working on my personal website [haffke.me](https://haffke.me), and as always tinkering with my [dotfiles](https://github.com/lasse16/dotfiles).
 
 
-✉️ lasse@haffke.me  
+✉️ github@haffke.me  
 🔗 [haffke.me](https://haffke.me)
