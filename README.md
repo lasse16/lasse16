@@ -8,7 +8,7 @@ From embedded, over web dev, to game design, computer vision and competitive pro
 
 Find my work on this profile and previous employments in [previous_work.md](./previous_work.md).
 
-Feel free to reach out to me via Mail at `lasse@haffke.me` or on Github @lasse16; You know ... The profile you are on right now 😁.  
+Feel free to reach out to me via Mail at `lasse@haffke.me` or on Github @lasse16; You know ... The profile you are on right now 😁  
 
 Currently working on my website [haffke.me](https://haffke.me), and as always tinkering with my [dotfiles](https://github.com/lasse16/dotfiles).
 
