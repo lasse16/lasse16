@@ -10,7 +10,7 @@ Find my work on this profile and previous employments in [previous_work.md](./pr
 
 Feel free to reach out to me via Mail at `github@haffke.me` or on Github @lasse16; You know ... The profile you are on right now 😁  
 
-Currently working on my website [haffke.me](https://haffke.me), and as always tinkering with my [dotfiles](https://github.com/lasse16/dotfiles).
+Currently working as a Site Reliability Engineer at Lufthansa Systems, and as always tinkering with my [dotfiles](https://github.com/lasse16/dotfiles).
 
 
 ✉️ github@haffke.me  
